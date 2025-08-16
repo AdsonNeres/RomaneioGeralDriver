@@ -666,12 +666,9 @@ function App() {
                   <FileSpreadsheet className="h-12 w-12 text-white" />
                 </div>
                 <h2 className="text-3xl font-bold text-gray-800 mb-4">Romaneio TMS</h2>
-                <p className="text-gray-600 text-lg mb-6">
-                  Sistema de gerenciamento de transporte
-                </p>
                 <div className="bg-green-50 rounded-xl p-4 text-left">
                   <p className="text-green-700">
-                    Importa arquivos XLSX e processa dados de serviços e endereços
+                    Para o romaneio TMS não precisa converter XLS, só baixar e importar aqui.
                   </p>
                 </div>
               </div>
